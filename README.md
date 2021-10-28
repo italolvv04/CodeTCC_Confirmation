@@ -1,2 +1,2 @@
-# CodeTCC
-Armazenamento do meu código do TCC
+# 	:man_student: TCC II - Italo Vieira e Guilherme Menezes :man_student:
+
